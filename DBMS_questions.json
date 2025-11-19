@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "a) Simple Query Language",
+      "b) Structured Query Language",
+      "c) Sequential Query Language",
+      "d) None of the above"
+    ],
+    "answer": "b) Structured Query Language"
+  },
+  {
+    "question": "Which of the following is known as the minimal super key?",
+    "options": [
+      "a) Primary Key",
+      "b) Candidate Key",
+      "c) Foreign Key",
+      "d) None of the above"
+    ],
+    "answer": "b) Candidate Key"
+  },
+  {
+    "question": "Which command is used to remove a table from a database in SQL?",
+    "options": [
+      "a) DELETE",
+      "b) DROP",
+      "c) REMOVE",
+      "d) TRUNCATE"
+    ],
+    "answer": "b) DROP"
+  },
+  {
+    "question": "Which SQL command is used to add new rows of data into a table?",
+    "options": [
+      "a) UPDATE",
+      "b) ADD",
+      "c) INSERT",
+      "d) MERGE"
+    ],
+    "answer": "c) INSERT"
+  },
+  {
+    "question": "What is the process of dividing a databse into smaller, faster, and more easily managed parts called?",
+    "options": [
+      "a) Normalization",
+      "b) Indexing",
+      "c) Fragmentation",
+      "d) Optimization"
+    ],
+    "answer": "c) Fragmentation"
+  }
+]
