@@ -1,0 +1,5 @@
+1. Which keyword is used to define a function in Python?|a)func b)function c)define d)def|d)def
+2. Is Python cse_sensitive when dealing with identifiers?|a)No b)Yes c)Machine dependent d)None of the mentioned|b)Yes
+3. What will be the output of the following Python expression:"\n"print(4+3%5)?|a)7 b)2 c)4 d)1|a)7|
+4. How is a code block indicated in Python?|a)Brackets b)Indentation c)Key d)None of the above|b)Indentation|
+5. Which of the following is an immutable data type in Python?|a)List b)Dictionary c)Tuple d)Set|c)Tuple|
