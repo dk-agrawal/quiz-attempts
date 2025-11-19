@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which of the following linear data structures?",
+    "options": ["a) Tree", "b) Graph", "c) Array", "d) Hash Table"],
+    "answer": "c) Array"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "options": ["a) O(n)", "b) O(log n)", "c) O(n^2)", "d) O(1)"],
+    "answer": "b) O(log n)"
+  },
+  {
+    "question": "Which data structure uses LIFO principle?",
+    "options": ["a) Queue", "b) Stack", "c) Linked List", "d) Tree"],
+    "answer": "b) Stack"
+  },
+  {
+    "question": "The data structure required for Breadth First Traversal (BFT) on a graph is?",
+    "options": ["a) Stack", "b) Array", "c) Queue", "d) Tree"],
+    "answer": "c) Queue"
+  },
+  {
+    "question": "Which data structure is based on LIFO principle?",
+    "options": ["a) Queue", "b) Stack", "c) Linked List", "d) Array"],
+    "answer": "b) Stack"
+  }
+]
